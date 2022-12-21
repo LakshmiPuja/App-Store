@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+}
+.tab-btn {
+  height: 30px;
+  width: 50px;
+  text-align: center;
+  background-color: transparent;
+  border-color: #dfe2e5;
+  color: #7b8794;
+  border-width: 0px 0px 2px 0px;
+  cursor: pointer;
+  outline: none;
+}
+.active-btn {
+  color: #2563eb;
+  border-color: #2563eb;
+  border-width: 0px 0px 2px 0px;
+}
